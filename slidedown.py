@@ -7,9 +7,9 @@
  #          | |   | |               __/ |                        
  #          |_|   |_|              |___/                         
  #					
- #							SlideDown
+ #					SlideDown
  # 		fork me at : https://github.com/NitishGadangi/SlideDown
- #				Developed and Maintained by Nitish
+ #			Developed and Maintained by Nitish
  #
 
 
