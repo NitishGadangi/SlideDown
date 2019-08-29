@@ -1,3 +1,19 @@
+ #                           ____        _   _ _ _   _     _     
+ #     /\                   |  _ \      | \ | (_) | (_)   | |    
+ #    /  \   _ __  _ __  ___| |_) |_   _|  \| |_| |_ _ ___| |__  
+ #   / /\ \ | '_ \| '_ \/ __|  _ <| | | | . ` | | __| / __| '_ \ 
+ #  / ____ \| |_) | |_) \__ \ |_) | |_| | |\  | | |_| \__ \ | | |
+ # /_/    \_\ .__/| .__/|___/____/ \__, |_| \_|_|\__|_|___/_| |_|
+ #          | |   | |               __/ |                        
+ #          |_|   |_|              |___/                         
+ #					
+ #							SlideDown
+ # 		fork me at : https://github.com/NitishGadangi/SlideDown
+ #				Developed and Maintained by Nitish
+ #
+
+
+
 from bs4 import BeautifulSoup
 import requests
 import itertools
